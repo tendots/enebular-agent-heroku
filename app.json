@@ -27,7 +27,7 @@
   },
   "addons": [
     {
-      "plan": "heroku-postgresql​​",
+      "plan": "heroku-postgresql:essential-0​​​",
       "options": {
         "version": "14"
       }
